@@ -1,0 +1,11 @@
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Infrastructure\bin\Debug\net6.0\Store_Website.Infrastructure.deps.json
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Infrastructure\bin\Debug\net6.0\Store_Website.Infrastructure.dll
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Infrastructure\bin\Debug\net6.0\Store_Website.Infrastructure.pdb
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Infrastructure\obj\Debug\net6.0\Store_Website.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Infrastructure\obj\Debug\net6.0\Store_Website.Infrastructure.AssemblyInfoInputs.cache
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Infrastructure\obj\Debug\net6.0\Store_Website.Infrastructure.AssemblyInfo.cs
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Infrastructure\obj\Debug\net6.0\Store_Website.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Infrastructure\obj\Debug\net6.0\Store_Website.Infrastructure.dll
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Infrastructure\obj\Debug\net6.0\refint\Store_Website.Infrastructure.dll
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Infrastructure\obj\Debug\net6.0\Store_Website.Infrastructure.pdb
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Infrastructure\obj\Debug\net6.0\ref\Store_Website.Infrastructure.dll

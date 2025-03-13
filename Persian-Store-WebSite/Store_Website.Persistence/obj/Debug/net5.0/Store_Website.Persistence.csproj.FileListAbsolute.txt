@@ -1,0 +1,66 @@
+C:\Users\Desktop\source\repos\Store_Website\Store_Website.Persistence\bin\Debug\net5.0\Store_Website.Persistence.deps.json
+C:\Users\Desktop\source\repos\Store_Website\Store_Website.Persistence\bin\Debug\net5.0\Store_Website.Persistence.runtimeconfig.json
+C:\Users\Desktop\source\repos\Store_Website\Store_Website.Persistence\bin\Debug\net5.0\Store_Website.Persistence.runtimeconfig.dev.json
+C:\Users\Desktop\source\repos\Store_Website\Store_Website.Persistence\bin\Debug\net5.0\Store_Website.Persistence.dll
+C:\Users\Desktop\source\repos\Store_Website\Store_Website.Persistence\bin\Debug\net5.0\ref\Store_Website.Persistence.dll
+C:\Users\Desktop\source\repos\Store_Website\Store_Website.Persistence\bin\Debug\net5.0\Store_Website.Persistence.pdb
+C:\Users\Desktop\source\repos\Store_Website\Store_Website.Persistence\bin\Debug\net5.0\Store_Website.Application.dll
+C:\Users\Desktop\source\repos\Store_Website\Store_Website.Persistence\bin\Debug\net5.0\Store_Website.Common.dll
+C:\Users\Desktop\source\repos\Store_Website\Store_Website.Persistence\bin\Debug\net5.0\Store_Website.Domain.dll
+C:\Users\Desktop\source\repos\Store_Website\Store_Website.Persistence\bin\Debug\net5.0\Store_Website.Application.pdb
+C:\Users\Desktop\source\repos\Store_Website\Store_Website.Persistence\bin\Debug\net5.0\Store_Website.Domain.pdb
+C:\Users\Desktop\source\repos\Store_Website\Store_Website.Persistence\bin\Debug\net5.0\Store_Website.Common.pdb
+C:\Users\Desktop\source\repos\Store_Website\Store_Website.Persistence\obj\Debug\net5.0\Store_Website.Persistence.csproj.AssemblyReference.cache
+C:\Users\Desktop\source\repos\Store_Website\Store_Website.Persistence\obj\Debug\net5.0\Store_Website.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\source\repos\Store_Website\Store_Website.Persistence\obj\Debug\net5.0\Store_Website.Persistence.AssemblyInfoInputs.cache
+C:\Users\Desktop\source\repos\Store_Website\Store_Website.Persistence\obj\Debug\net5.0\Store_Website.Persistence.AssemblyInfo.cs
+C:\Users\Desktop\source\repos\Store_Website\Store_Website.Persistence\obj\Debug\net5.0\Store_Website.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\source\repos\Store_Website\Store_Website.Persistence\obj\Debug\net5.0\Store_Website.Persistence.csproj.CopyComplete
+C:\Users\Desktop\source\repos\Store_Website\Store_Website.Persistence\obj\Debug\net5.0\Store_Website.Persistence.dll
+C:\Users\Desktop\source\repos\Store_Website\Store_Website.Persistence\obj\Debug\net5.0\ref\Store_Website.Persistence.dll
+C:\Users\Desktop\source\repos\Store_Website\Store_Website.Persistence\obj\Debug\net5.0\Store_Website.Persistence.pdb
+C:\Users\Desktop\source\repos\Store_Website\Store_Website.Persistence\obj\Debug\net5.0\Store_Website.Persistence.genruntimeconfig.cache
+E:\Projects\Real Projects\BackEnd\Web Application\Persian_Store_WebSite\Project\Store_Website.Persistence\bin\Debug\net5.0\Store_Website.Persistence.deps.json
+E:\Projects\Real Projects\BackEnd\Web Application\Persian_Store_WebSite\Project\Store_Website.Persistence\bin\Debug\net5.0\Store_Website.Persistence.runtimeconfig.json
+E:\Projects\Real Projects\BackEnd\Web Application\Persian_Store_WebSite\Project\Store_Website.Persistence\bin\Debug\net5.0\Store_Website.Persistence.runtimeconfig.dev.json
+E:\Projects\Real Projects\BackEnd\Web Application\Persian_Store_WebSite\Project\Store_Website.Persistence\bin\Debug\net5.0\Store_Website.Persistence.dll
+E:\Projects\Real Projects\BackEnd\Web Application\Persian_Store_WebSite\Project\Store_Website.Persistence\bin\Debug\net5.0\ref\Store_Website.Persistence.dll
+E:\Projects\Real Projects\BackEnd\Web Application\Persian_Store_WebSite\Project\Store_Website.Persistence\bin\Debug\net5.0\Store_Website.Persistence.pdb
+E:\Projects\Real Projects\BackEnd\Web Application\Persian_Store_WebSite\Project\Store_Website.Persistence\bin\Debug\net5.0\Store_Website.Application.dll
+E:\Projects\Real Projects\BackEnd\Web Application\Persian_Store_WebSite\Project\Store_Website.Persistence\bin\Debug\net5.0\Store_Website.Common.dll
+E:\Projects\Real Projects\BackEnd\Web Application\Persian_Store_WebSite\Project\Store_Website.Persistence\bin\Debug\net5.0\Store_Website.Domain.dll
+E:\Projects\Real Projects\BackEnd\Web Application\Persian_Store_WebSite\Project\Store_Website.Persistence\bin\Debug\net5.0\Store_Website.Application.pdb
+E:\Projects\Real Projects\BackEnd\Web Application\Persian_Store_WebSite\Project\Store_Website.Persistence\bin\Debug\net5.0\Store_Website.Domain.pdb
+E:\Projects\Real Projects\BackEnd\Web Application\Persian_Store_WebSite\Project\Store_Website.Persistence\bin\Debug\net5.0\Store_Website.Common.pdb
+E:\Projects\Real Projects\BackEnd\Web Application\Persian_Store_WebSite\Project\Store_Website.Persistence\obj\Debug\net5.0\Store_Website.Persistence.csproj.AssemblyReference.cache
+E:\Projects\Real Projects\BackEnd\Web Application\Persian_Store_WebSite\Project\Store_Website.Persistence\obj\Debug\net5.0\Store_Website.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Real Projects\BackEnd\Web Application\Persian_Store_WebSite\Project\Store_Website.Persistence\obj\Debug\net5.0\Store_Website.Persistence.AssemblyInfoInputs.cache
+E:\Projects\Real Projects\BackEnd\Web Application\Persian_Store_WebSite\Project\Store_Website.Persistence\obj\Debug\net5.0\Store_Website.Persistence.AssemblyInfo.cs
+E:\Projects\Real Projects\BackEnd\Web Application\Persian_Store_WebSite\Project\Store_Website.Persistence\obj\Debug\net5.0\Store_Website.Persistence.csproj.CoreCompileInputs.cache
+E:\Projects\Real Projects\BackEnd\Web Application\Persian_Store_WebSite\Project\Store_Website.Persistence\obj\Debug\net5.0\Store_Website.Persistence.csproj.CopyComplete
+E:\Projects\Real Projects\BackEnd\Web Application\Persian_Store_WebSite\Project\Store_Website.Persistence\obj\Debug\net5.0\Store_Website.Persistence.dll
+E:\Projects\Real Projects\BackEnd\Web Application\Persian_Store_WebSite\Project\Store_Website.Persistence\obj\Debug\net5.0\ref\Store_Website.Persistence.dll
+E:\Projects\Real Projects\BackEnd\Web Application\Persian_Store_WebSite\Project\Store_Website.Persistence\obj\Debug\net5.0\Store_Website.Persistence.pdb
+E:\Projects\Real Projects\BackEnd\Web Application\Persian_Store_WebSite\Project\Store_Website.Persistence\obj\Debug\net5.0\Store_Website.Persistence.genruntimeconfig.cache
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Persistence\bin\Debug\net5.0\Store_Website.Persistence.deps.json
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Persistence\bin\Debug\net5.0\Store_Website.Persistence.runtimeconfig.json
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Persistence\bin\Debug\net5.0\Store_Website.Persistence.runtimeconfig.dev.json
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Persistence\bin\Debug\net5.0\Store_Website.Persistence.dll
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Persistence\bin\Debug\net5.0\Store_Website.Persistence.pdb
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Persistence\bin\Debug\net5.0\Store_Website.Application.dll
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Persistence\bin\Debug\net5.0\Store_Website.Common.dll
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Persistence\bin\Debug\net5.0\Store_Website.Domain.dll
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Persistence\bin\Debug\net5.0\Store_Website.Application.pdb
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Persistence\bin\Debug\net5.0\Store_Website.Domain.pdb
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Persistence\bin\Debug\net5.0\Store_Website.Common.pdb
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Persistence\obj\Debug\net5.0\Store_Website.Persistence.csproj.AssemblyReference.cache
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Persistence\obj\Debug\net5.0\Store_Website.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Persistence\obj\Debug\net5.0\Store_Website.Persistence.AssemblyInfoInputs.cache
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Persistence\obj\Debug\net5.0\Store_Website.Persistence.AssemblyInfo.cs
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Persistence\obj\Debug\net5.0\Store_Website.Persistence.csproj.CoreCompileInputs.cache
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Persistence\obj\Debug\net5.0\Store_Website.Persistence.csproj.CopyComplete
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Persistence\obj\Debug\net5.0\Store_Website.Persistence.dll
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Persistence\obj\Debug\net5.0\refint\Store_Website.Persistence.dll
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Persistence\obj\Debug\net5.0\Store_Website.Persistence.pdb
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Persistence\obj\Debug\net5.0\Store_Website.Persistence.genruntimeconfig.cache
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Persistence\obj\Debug\net5.0\ref\Store_Website.Persistence.dll

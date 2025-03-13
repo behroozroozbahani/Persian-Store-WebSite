@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2U5vcu+1wZQ=",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Real Projects\\Web Application\\Main\\Persian_Store_WebSite\\Store_Website_Common\\Store_Website.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Developer\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.26\\microsoft.aspnetcore.cryptography.internal.6.0.26.nupkg.sha512",
+    "C:\\Users\\Developer\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.26\\microsoft.aspnetcore.cryptography.keyderivation.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}

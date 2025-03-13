@@ -1,0 +1,51 @@
+C:\Users\Desktop\source\repos\Store_Website\Store_Website.Application\bin\Debug\net5.0\Store_Website.Application.deps.json
+C:\Users\Desktop\source\repos\Store_Website\Store_Website.Application\bin\Debug\net5.0\Store_Website.Application.dll
+C:\Users\Desktop\source\repos\Store_Website\Store_Website.Application\bin\Debug\net5.0\ref\Store_Website.Application.dll
+C:\Users\Desktop\source\repos\Store_Website\Store_Website.Application\bin\Debug\net5.0\Store_Website.Application.pdb
+C:\Users\Desktop\source\repos\Store_Website\Store_Website.Application\bin\Debug\net5.0\Store_Website.Common.dll
+C:\Users\Desktop\source\repos\Store_Website\Store_Website.Application\bin\Debug\net5.0\Store_Website.Domain.dll
+C:\Users\Desktop\source\repos\Store_Website\Store_Website.Application\bin\Debug\net5.0\Store_Website.Domain.pdb
+C:\Users\Desktop\source\repos\Store_Website\Store_Website.Application\bin\Debug\net5.0\Store_Website.Common.pdb
+C:\Users\Desktop\source\repos\Store_Website\Store_Website.Application\obj\Debug\net5.0\Store_Website.Application.csproj.AssemblyReference.cache
+C:\Users\Desktop\source\repos\Store_Website\Store_Website.Application\obj\Debug\net5.0\Store_Website.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\source\repos\Store_Website\Store_Website.Application\obj\Debug\net5.0\Store_Website.Application.AssemblyInfoInputs.cache
+C:\Users\Desktop\source\repos\Store_Website\Store_Website.Application\obj\Debug\net5.0\Store_Website.Application.AssemblyInfo.cs
+C:\Users\Desktop\source\repos\Store_Website\Store_Website.Application\obj\Debug\net5.0\Store_Website.Application.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\source\repos\Store_Website\Store_Website.Application\obj\Debug\net5.0\Store_Website.Application.csproj.CopyComplete
+C:\Users\Desktop\source\repos\Store_Website\Store_Website.Application\obj\Debug\net5.0\Store_Website.Application.dll
+C:\Users\Desktop\source\repos\Store_Website\Store_Website.Application\obj\Debug\net5.0\ref\Store_Website.Application.dll
+C:\Users\Desktop\source\repos\Store_Website\Store_Website.Application\obj\Debug\net5.0\Store_Website.Application.pdb
+E:\Projects\Real Projects\BackEnd\Web Application\Persian_Store_WebSite\Project\Store_Website.Application\bin\Debug\net5.0\Store_Website.Application.deps.json
+E:\Projects\Real Projects\BackEnd\Web Application\Persian_Store_WebSite\Project\Store_Website.Application\bin\Debug\net5.0\Store_Website.Application.dll
+E:\Projects\Real Projects\BackEnd\Web Application\Persian_Store_WebSite\Project\Store_Website.Application\bin\Debug\net5.0\ref\Store_Website.Application.dll
+E:\Projects\Real Projects\BackEnd\Web Application\Persian_Store_WebSite\Project\Store_Website.Application\bin\Debug\net5.0\Store_Website.Application.pdb
+E:\Projects\Real Projects\BackEnd\Web Application\Persian_Store_WebSite\Project\Store_Website.Application\bin\Debug\net5.0\Store_Website.Common.dll
+E:\Projects\Real Projects\BackEnd\Web Application\Persian_Store_WebSite\Project\Store_Website.Application\bin\Debug\net5.0\Store_Website.Domain.dll
+E:\Projects\Real Projects\BackEnd\Web Application\Persian_Store_WebSite\Project\Store_Website.Application\bin\Debug\net5.0\Store_Website.Domain.pdb
+E:\Projects\Real Projects\BackEnd\Web Application\Persian_Store_WebSite\Project\Store_Website.Application\bin\Debug\net5.0\Store_Website.Common.pdb
+E:\Projects\Real Projects\BackEnd\Web Application\Persian_Store_WebSite\Project\Store_Website.Application\obj\Debug\net5.0\Store_Website.Application.csproj.AssemblyReference.cache
+E:\Projects\Real Projects\BackEnd\Web Application\Persian_Store_WebSite\Project\Store_Website.Application\obj\Debug\net5.0\Store_Website.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Real Projects\BackEnd\Web Application\Persian_Store_WebSite\Project\Store_Website.Application\obj\Debug\net5.0\Store_Website.Application.AssemblyInfoInputs.cache
+E:\Projects\Real Projects\BackEnd\Web Application\Persian_Store_WebSite\Project\Store_Website.Application\obj\Debug\net5.0\Store_Website.Application.AssemblyInfo.cs
+E:\Projects\Real Projects\BackEnd\Web Application\Persian_Store_WebSite\Project\Store_Website.Application\obj\Debug\net5.0\Store_Website.Application.csproj.CoreCompileInputs.cache
+E:\Projects\Real Projects\BackEnd\Web Application\Persian_Store_WebSite\Project\Store_Website.Application\obj\Debug\net5.0\Store_Website.Application.csproj.CopyComplete
+E:\Projects\Real Projects\BackEnd\Web Application\Persian_Store_WebSite\Project\Store_Website.Application\obj\Debug\net5.0\Store_Website.Application.dll
+E:\Projects\Real Projects\BackEnd\Web Application\Persian_Store_WebSite\Project\Store_Website.Application\obj\Debug\net5.0\ref\Store_Website.Application.dll
+E:\Projects\Real Projects\BackEnd\Web Application\Persian_Store_WebSite\Project\Store_Website.Application\obj\Debug\net5.0\Store_Website.Application.pdb
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Application\bin\Debug\net5.0\Store_Website.Application.deps.json
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Application\bin\Debug\net5.0\Store_Website.Application.dll
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Application\bin\Debug\net5.0\Store_Website.Application.pdb
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Application\bin\Debug\net5.0\Store_Website.Common.dll
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Application\bin\Debug\net5.0\Store_Website.Domain.dll
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Application\bin\Debug\net5.0\Store_Website.Domain.pdb
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Application\bin\Debug\net5.0\Store_Website.Common.pdb
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Application\obj\Debug\net5.0\Store_Website.Application.csproj.AssemblyReference.cache
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Application\obj\Debug\net5.0\Store_Website.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Application\obj\Debug\net5.0\Store_Website.Application.AssemblyInfoInputs.cache
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Application\obj\Debug\net5.0\Store_Website.Application.AssemblyInfo.cs
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Application\obj\Debug\net5.0\Store_Website.Application.csproj.CoreCompileInputs.cache
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Application\obj\Debug\net5.0\Store_Website.Application.csproj.CopyComplete
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Application\obj\Debug\net5.0\Store_Website.Application.dll
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Application\obj\Debug\net5.0\refint\Store_Website.Application.dll
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Application\obj\Debug\net5.0\Store_Website.Application.pdb
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Application\obj\Debug\net5.0\ref\Store_Website.Application.dll

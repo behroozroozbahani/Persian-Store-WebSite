@@ -1,0 +1,17 @@
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Application\bin\Debug\net6.0\Store_Website.Application.deps.json
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Application\bin\Debug\net6.0\Store_Website.Application.dll
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Application\bin\Debug\net6.0\Store_Website.Application.pdb
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Application\bin\Debug\net6.0\Store_Website.Common.dll
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Application\bin\Debug\net6.0\Store_Website.Domain.dll
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Application\bin\Debug\net6.0\Store_Website.Domain.pdb
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Application\bin\Debug\net6.0\Store_Website.Common.pdb
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Application\obj\Debug\net6.0\Store_Website.Application.csproj.AssemblyReference.cache
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Application\obj\Debug\net6.0\Store_Website.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Application\obj\Debug\net6.0\Store_Website.Application.AssemblyInfoInputs.cache
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Application\obj\Debug\net6.0\Store_Website.Application.AssemblyInfo.cs
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Application\obj\Debug\net6.0\Store_Website.Application.csproj.CoreCompileInputs.cache
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Application\obj\Debug\net6.0\Store_We.22844911.Up2Date
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Application\obj\Debug\net6.0\Store_Website.Application.dll
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Application\obj\Debug\net6.0\refint\Store_Website.Application.dll
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Application\obj\Debug\net6.0\Store_Website.Application.pdb
+D:\Projects\Real Projects\Web Application\Main\Persian_Store_WebSite\Store_Website.Application\obj\Debug\net6.0\ref\Store_Website.Application.dll

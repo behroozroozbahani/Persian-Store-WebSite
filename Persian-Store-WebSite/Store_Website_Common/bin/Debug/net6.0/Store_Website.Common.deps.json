@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Store_Website.Common/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Cryptography.KeyDerivation": "6.0.26"
+        },
+        "runtime": {
+          "Store_Website.Common.dll": {}
+        }
+      },
+      "Microsoft.AspNetCore.Cryptography.Internal/6.0.26": {
+        "runtime": {
+          "lib/net6.0/Microsoft.AspNetCore.Cryptography.Internal.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.2623.60506"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Cryptography.KeyDerivation/6.0.26": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Cryptography.Internal": "6.0.26"
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.2623.60506"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Store_Website.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.AspNetCore.Cryptography.Internal/6.0.26": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+D2bhCplByJBtAuutU8rYTM+98fWlX83ORZRuv6lX6ABwGTLJyVPA0N13wDooMmR4yNYoFDQ8RgkXzttJ80gRA==",
+      "path": "microsoft.aspnetcore.cryptography.internal/6.0.26",
+      "hashPath": "microsoft.aspnetcore.cryptography.internal.6.0.26.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Cryptography.KeyDerivation/6.0.26": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8ezJ0gA07nQv+bu3Fpmum2eXXRYMssjWlwpOQFGlBnr7ODyVrEJN+4hpSeAhiti4ChMlk/E2tHsCO6xY9TGCZQ==",
+      "path": "microsoft.aspnetcore.cryptography.keyderivation/6.0.26",
+      "hashPath": "microsoft.aspnetcore.cryptography.keyderivation.6.0.26.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
+using Store_Website.Application.Services.Fainances.Queries.GetRequestPayForAdmin;
+
+namespace EndPoint.Site.Areas.Admin.Controllers
+{
+    [Area("Admin")]
+    [Authorize(Roles = "مدیر, اپراتور")]
+    public class RequestPayController : Controller
+    {
+        private readonly IGetRequestPayForAdminService _getRequestPayForAdminService;
+        public RequestPayController(IGetRequestPayForAdminService getRequestPayForAdminService)
+        {
+            _getRequestPayForAdminService = getRequestPayForAdminService;
+        }
+        public IActionResult Index()
+        {
+            return View(_getRequestPayForAdminService.Execute().Data);
+        }
+    }
+}
