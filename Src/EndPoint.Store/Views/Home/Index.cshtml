@@ -1,0 +1,262 @@
+﻿@using EndPoint.Site.Models.ViewModels.HomePages
+@using Store_Website.Domain.Entities.HomePages
+@model HomePageViewModel
+
+@{
+    ViewData["Title"] = "Home Page";
+    int _sliderCount = 1;
+}
+
+<!-- block1--------------------------->
+<div class="container-main">
+    <div class="d-block">
+        <div class="col-lg-8 col-xs-12 pr">
+            <div class="slider-main-container d-block">
+                <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+                    <ol class="carousel-indicators">
+
+                        <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+
+                        @for (int i = 1; i <= Model.Sliders.Count - 1; i++)
+                        {
+                            <li data-target="#carouselExampleIndicators" data-slide-to="@i"></li>
+                        }
+                    </ol>
+                    <div class="carousel-inner">
+                        @foreach (var item in Model.Sliders)
+                        {
+                            if (_sliderCount == 1)
+                            {
+                                <div class="carousel-item active">
+                                    <a href="@item.Link">
+                                        <img src="~/@item.Src" class="d-block w-100" alt="...">
+                                    </a>
+                                </div>
+                            }
+                            else
+                            {
+                                <div class="carousel-item">
+                                    <a href="@item.Link">
+                                        <img src="~/@item.Src" class="d-block w-100" alt="...">
+                                    </a>
+                                </div>
+                            }
+
+                            _sliderCount++;
+                        }
+                    </div>
+                    <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                        <span class="fa fa-angle-left" aria-hidden="true"></span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                        <span class="fa fa-angle-right" aria-hidden="true"></span>
+                        <span class="sr-only">Next</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+       @*  <div class="col-lg-4 col-md-4 col-xs-12 pl mt-1">
+            <div class="adplacement-container-column">
+                <a href="#" class="adplacement-item">
+                    <div class="adplacement-sponsored-box">
+                        <img src="~/@Model.PageImages.Where(p=> p.ImageLocation == ImageLocation.L1)?.FirstOrDefault()?.Src?? '' ">
+                    </div>
+                </a>
+                <a href="#" class="adplacement-item">
+                    <div class="adplacement-sponsored-box">
+                        <img src="~/@Model.PageImages.Where(p=> p.ImageLocation == ImageLocation.L2)?.FirstOrDefault()?.Src?? ''">
+                    </div>
+                </a>
+            </div>
+        </div> *@
+
+        @* <div class="col-lg-3 col-md-3 col-xs-12 pr">
+            <div class="adplacement-container-column mt-4">
+                <a href="#" class="adplacement-item img-banner">
+                    <div class="adplacement-sponsored-box">
+                        <img src="~/@Model.PageImages.Where(p=> p.ImageLocation == ImageLocation.R1)?.FirstOrDefault()?.Src?? ''">
+                    </div>
+                </a>
+            </div>
+        </div> *@
+
+    </div>
+</div>
+<!-- block1--------------------------->
+<!-- block2--------------------------->
+<div class="container-main">
+    <div class="d-block">
+
+        @* <div class="adplacement-container-row">
+            <div class="col-12">
+                <a href="#" class="adplacement-item mb-4">
+                    <div class="adplacement-sponsored_box">
+                        <img src="~/@Model.PageImages.Where(p=> p.ImageLocation == ImageLocation.CenterFullScreen)?.FirstOrDefault()?.Src?? ''">
+                    </div>
+                </a>
+            </div>
+            @foreach (var item in Model.PageImages.Where(p => p.ImageLocation == ImageLocation.G1).ToList())
+            {
+                <div class="col-6 col-lg-3 pr">
+                    <a href="#" class="adplacement-item">
+                        <div class="adplacement-sponsored_box">
+                            <img src="~/@item.Src">
+                        </div>
+                    </a>
+                </div>
+            }
+        </div> *@
+
+    </div>
+</div>
+<!-- block2--------------------------->
+<!-- block3--------------------------->
+<div class="container-main">
+    <div class="d-block">
+
+       @*  <div class="col-lg-9 col-md-9 col-xs-12 pr order-1 d-block">
+            <div class="slider-widget-products">
+                <div class="widget widget-product card">
+                    <header class="card-header">
+                        <span class="title-one">دوربین</span>
+                        <h3 class="card-title"></h3>
+                    </header>
+                    <div class="product-carousel owl-carousel owl-theme owl-rtl owl-loaded owl-drag">
+                        <div class="owl-stage-outer">
+                            <div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 2234px;">
+
+                                @foreach (var item in Model.Camera)
+                                {
+                                    <div class="owl-item active" style="width: 309.083px; margin-left: 10px;">
+                                        <div class="item">
+                                            <a href="~/produtcs/detail/@item.Id" class="d-block hover-img-link">
+                                                <img src="~/@item.ImageSrc" class="img-fluid" alt="">
+                                            </a>
+                                            <h2 class="post-title">
+                                                <a href="#">
+                                                    @item.Title
+                                                </a>
+                                            </h2>
+                                            <div class="price">
+                                                <ins><span>@item.Price<span>تومان</span></span></ins>
+                                            </div>
+                                        </div>
+                                    </div>
+                                }
+                            </div>
+                        </div>
+                        <div class="owl-nav">
+                            <button type="button" role="presentation" class="owl-prev disabled">
+                                <i class="fa fa-angle-right"></i>
+                            </button>
+                            <button type="button" role="presentation" class="owl-next">
+                                <i class="fa fa-angle-left"></i>
+                            </button>
+                        </div>
+                        <div class="owl-dots disabled"></div>
+                    </div>
+                </div>
+            </div>
+        </div> *@
+
+        @* <div class="container-fluid">
+            <div class="row pr">
+                <div class="adplacement-container-row">
+
+                    @foreach (var item in Model.PageImages.Where(p => p.ImageLocation == ImageLocation.G2).ToList())
+                    {
+                        <div class="col-6 col-lg-3 pr">
+                            <a href="#" class="adplacement-item">
+                                <div class="adplacement-sponsored_box">
+                                    <img src="~/@item.Src">
+                                </div>
+                            </a>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div> *@
+
+        <div class="col-lg-12 col-md-12 col-xs-12 pr order-1 d-block">
+            <div class="slider-widget-products">
+                <div class="widget widget-product card mb-0">
+                    <div class="product-carousel-brand owl-carousel owl-theme owl-rtl owl-loaded owl-drag">
+                        <div class="owl-stage-outer">
+                            <div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 2234px;">
+                                <div class="owl-item active" style="width: 190.75px; margin-left: 10px;">
+                                    <div class="item">
+                                        <a href="#" class="d-block hover-img-link">
+                                            <img src="~/SiteTemplate/assets/images/brand/shahab.png" class="img-fluid img-brand" alt="">
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="owl-item active" style="width: 190.75px; margin-left: 10px;">
+                                    <div class="item">
+                                        <a href="#" class="d-block hover-img-link mt-0">
+                                            <img src="~/SiteTemplate/assets/images/brand/adata.png" class="img-fluid img-brand" alt="">
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="owl-item active" style="width: 190.75px; margin-left: 10px;">
+                                    <div class="item">
+                                        <a href="#" class="d-block hover-img-link mt-0">
+                                            <img src="~/SiteTemplate/assets/images/brand/huawei.png" class="img-fluid img-brand" alt="">
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="owl-item active" style="width: 190.75px; margin-left: 10px;">
+                                    <div class="item">
+                                        <a href="#" class="d-block hover-img-link mt-0">
+                                            <img src="~/SiteTemplate/assets/images/brand/nokia.png" class="img-fluid img-brand" alt="">
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="owl-item active" style="width: 190.75px; margin-left: 10px;">
+                                    <div class="item">
+                                        <a href="#" class="d-block hover-img-link mt-0">
+                                            <img src="~/SiteTemplate/assets/images/brand/panasonic.png" class="img-fluid img-brand" alt="">
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="owl-item active" style="width: 190.75px; margin-left: 10px;">
+                                    <div class="item">
+                                        <a href="#" class="d-block hover-img-link mt-0">
+                                            <img src="~/SiteTemplate/assets/images/brand/parskhazar.png" class="img-fluid img-brand" alt="">
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="owl-item active" style="width: 190.75px; margin-left: 10px;">
+                                    <div class="item">
+                                        <a href="#" class="d-block hover-img-link mt-0">
+                                            <img src="~/SiteTemplate/assets/images/brand/samsung.png" class="img-fluid img-brand" alt="">
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="owl-item active" style="width: 190.75px; margin-left: 10px;">
+                                    <div class="item">
+                                        <a href="#" class="d-block hover-img-link mt-0">
+                                            <img src="~/SiteTemplate/assets/images/brand/xvison.png" class="img-fluid img-brand" alt="">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="owl-nav">
+                            <button type="button" role="presentation" class="owl-prev disabled">
+                                <i class="fa fa-angle-right"></i>
+                            </button>
+                            <button type="button" role="presentation" class="owl-next">
+                                <i class="fa fa-angle-left"></i>
+                            </button>
+                        </div>
+                        <div class="owl-dots disabled"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+<!-- block3--------------------------->
